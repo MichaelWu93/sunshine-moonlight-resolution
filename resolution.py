@@ -2,7 +2,7 @@ import subprocess
 import tkinter
 
 resolution = ['1920x1080','1366x768','2266x1488']
-exe_path = r"C:/Users/.../QRes.exe"
+exe_path = r"C:/Users/PC/Documents/APP/QRes.exe"
 
 class Gui():
     def __init__(self,init_name):
